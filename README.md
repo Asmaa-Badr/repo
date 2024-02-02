@@ -1,4 +1,4 @@
-#Test
+# Test
 ## How to make a repository and upload it to GitHub from scratch.
 
 - mkdir gitwork 
