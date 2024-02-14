@@ -9,9 +9,9 @@
  | 3 | 11 | Jul. |
  ## Checklist
  - Level 0
-    - [x] Html & CSS
-   - [x] Git & GitHub
-   = [x] Netwoking
+    - [x] [Html & CSS](https://codepen.io/Asmaa-Badr/pen/MWxWGEe)
+   - [x] [Git & GitHub](https://github.com/Asmaa-Badr)
+   - [x] [Netwoking](https://github.com/Asmaa-Badr)
  - Level 1
-   - [x] JavaScript
-   - [ ] Express.js
+   - [x] [JavaScript](https://github.com/Asmaa-Badr)
+   - [ ] [Express.js](https://github.com/Asmaa-Badr)
